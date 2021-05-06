@@ -1,14 +1,31 @@
-process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
+const { program } = require('commander')
+const utils = require('./utils')
+const parser = require('./parser')
+const axios = require('axios')
+const https = require('https')
+const ProgressBar = require('progress')
 
-const helper = require('./helper')
-const iptvChecker = require('iptv-checker-module')
+program
+  .usage('[OPTIONS]...')
+  .option('-d, --debug', 'Debug mode')
+  .option('-c, --country <country>', 'Comma-separated list of country codes', '')
+  .option('-e, --exclude <exclude>', 'Comma-separated list of country codes to be excluded', '')
+  .option('--delay <delay>', 'Delay between parser requests', 1000)
+  .option('--timeout <timeout>', 'Set timeout for each request', 5000)
+  .parse(process.argv)
 
-const config = {
-  debug: process.env.npm_config_debug || false,
-  country: process.env.npm_config_country,
-  exclude: process.env.npm_config_exclude,
-  timeout: 10000
-}
+const config = program.opts()
+
+const instance = axios.create({
+  timeout: config.timeout,
+  maxContentLength: 20000,
+  httpsAgent: new https.Agent({
+    rejectUnauthorized: false
+  }),
+  validateStatus: function (status) {
+    return (status >= 200 && status < 300) || status === 403
+  }
+})
 
 let stats = {
   playlists: 0,
@@ -17,51 +34,47 @@ let stats = {
 }
 
 async function test() {
-  const playlist = helper.parsePlaylist('index.m3u')
+  let items = parser.parseIndex()
+  items = utils.filterPlaylists(items, config.country, config.exclude)
 
-  const countries = helper.filterPlaylists(playlist.items, config.country, config.exclude)
+  for (const item of items) {
+    const playlist = parser.parsePlaylist(item.url)
+    const bar = new ProgressBar(`Processing '${item.url}'...:current/:total`, {
+      total: playlist.channels.length
+    })
 
-  for (let country of countries) {
     stats.playlists++
 
-    console.log(`Processing '${country.url}'...`)
+    for (let channel of playlist.channels) {
+      bar.tick()
+      stats.channels++
 
-    const options = {
-      timeout: config.timeout,
-      userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-      debug: config.debug,
-      omitMetadata: true,
-      parallel: 1,
-      itemCallback: item => {
-        stats.channels++
-        if (
-          !item.status.ok &&
-          item.status.reason !== 'Timed out' &&
-          item.status.reason !== 'Duplicate'
-        ) {
-          stats.failures++
+      if (channel.url.startsWith('rtmp://')) continue
 
-          helper.writeToLog(country.url, item.status.reason, item.url)
-
-          console.log(`${item.status.reason} '${item.url}'`)
-        }
-      }
+      await instance
+        .get(channel.url)
+        .then(utils.sleep(config.delay))
+        .catch(error => {
+          if (error.response) {
+            stats.failures++
+            utils.writeToLog(item.url, error.message, channel.url)
+          }
+        })
     }
-
-    await iptvChecker(country.url, options)
   }
 
   if (stats.failures === 0) {
-    console.log(`OK (${stats.playlists} playlists, ${stats.channels} channels)`)
+    console.log(`\nOK (${stats.playlists} playlists, ${stats.channels} channels)`)
   } else {
     console.log(
-      `FAILURES! (${stats.playlists} playlists, ${stats.channels} channels, ${stats.failures} failures)`
+      `\nFAILURES! (${stats.playlists} playlists, ${stats.channels} channels, ${stats.failures} failures)
+      \n\nCheck the "error.log" file to see which links failed.`
     )
 
     process.exit(1)
   }
 }
 
-console.log('Test is running...')
+console.log('Test is running...\n')
 
 test()
