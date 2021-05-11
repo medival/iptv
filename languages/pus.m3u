@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" tvg-country="AF" tvg-url="" group-title="News",Ariana News
+#EXTINF:-1 tvg-id="ArianaNews.af" tvg-name="Ariana News" tvg-country="AF" tvg-language="Pushto" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" tvg-url="" group-title="",Ariana News (360p)
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-country="AF" tvg-url="" group-title="",Ariana TV
+#EXTINF:-1 tvg-id="ArianaTV.af" tvg-name="Ariana TV" tvg-country="AF" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-url="" group-title="",Ariana TV (480p)
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-country="AF" tvg-url="" group-title="",Ariana TV
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XpR1VvZ.png" tvg-country="AF" tvg-url="" group-title="",Kayhan TV
-http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-country="AF" tvg-url="" group-title="",Shamshad TV
-https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/JerfIBt.jpg" tvg-country="AF" tvg-url="" group-title="",Tuti
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="ArianaTV.af" tvg-name="Ariana TV" tvg-country="AF" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-url="" group-title="",Ariana TV (480p)
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KayhanTV.af" tvg-name="Kayhan TV" tvg-country="AF" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XpR1VvZ.png" tvg-url="" group-title="",Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tuti.af" tvg-name="Tuti" tvg-country="AF" tvg-language="Pushto" tvg-logo="https://i.imgur.com/JerfIBt.jpg" tvg-url="" group-title="",Tuti (480p)
+https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
