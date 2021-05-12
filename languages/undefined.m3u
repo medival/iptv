@@ -29,7 +29,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w152323
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 Music Channel
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
+#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV (1080p)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
@@ -689,7 +689,7 @@ https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY" tvg-url="" group-title="",Antena Seis TV CANAL 32 HD
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
-#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
+#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV (720p)
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
@@ -889,7 +889,7 @@ https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV AVRUPA
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
-#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
+#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra (720p)
 https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
 https://videos.rtva.ad/live/web/playlist.m3u8
@@ -8858,7 +8858,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XymK2PR.png" tvg-url="" group-title="",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
+#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8

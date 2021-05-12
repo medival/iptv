@@ -29,7 +29,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w152323
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 Music Channel
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
+#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV (1080p)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
@@ -689,7 +689,7 @@ https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY" tvg-url="" group-title="",Antena Seis TV CANAL 32 HD
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
-#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
+#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV (720p)
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
@@ -889,7 +889,7 @@ https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV AVRUPA
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
-#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
+#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra (720p)
 https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
 https://videos.rtva.ad/live/web/playlist.m3u8
@@ -8858,7 +8858,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XymK2PR.png" tvg-url="" group-title="",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
+#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
@@ -11854,7 +11854,7 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albanian",ABC News
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albanian",ABC News
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albanian",ABC News (540p)
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-name="AlbUK TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" tvg-url="" group-title="Albanian",AlbUK TV (1080p)
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -11900,7 +11900,7 @@ http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Plus" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://albepg.com/tvlogi/RTSH Plus.png" tvg-url="" group-title="Albanian",RTSH Sport
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="Albanian",RTV Ilirida
+#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="Albanian",RTV Ilirida (360p)
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriTV.al" tvg-name="Syri TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" tvg-url="" group-title="Albanian",Syri TV
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
@@ -22635,7 +22635,7 @@ http://panel.dattalive.com:1935/8250/8250/.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="MundoMas.co" tvg-name="Mundo Mas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-url="" group-title="Spanish",Mundo Mas (560p)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Spanish",MusicTop
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Spanish",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-url="" group-title="Spanish",MusicTop (720p)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
@@ -23095,7 +23095,7 @@ http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" tvg-url="" group-title="Spanish",Teleislas (480p)
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Spanish",Telemax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Spanish",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Spanish",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
@@ -23155,7 +23155,7 @@ https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisión" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" tvg-url="" group-title="Spanish",TicaVisión (720p)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="Spanish",Tierra Mía TV
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="Spanish",Tierra Mía TV (480p)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TNE.cl" tvg-name="TNE" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.tnetv.cl/img/logo.jpg" tvg-url="" group-title="Spanish",TNE
 https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/mono.m3u8

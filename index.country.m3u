@@ -7004,7 +7004,7 @@ https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/playlist.m3u8
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albania",ABC News
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albania",ABC News
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" tvg-url="" group-title="Albania",ABC News (540p)
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-name="AlbUK TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" tvg-url="" group-title="Albania",AlbUK TV (1080p)
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -7028,7 +7028,7 @@ http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Plus" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://albepg.com/tvlogi/RTSH Plus.png" tvg-url="" group-title="Albania",RTSH Sport
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="Albania",RTV Ilirida
+#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="Albania",RTV Ilirida (360p)
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriTV.al" tvg-name="Syri TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" tvg-url="" group-title="Albania",Syri TV
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
@@ -7050,16 +7050,16 @@ http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
 #EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" tvg-url="" group-title="Algeria",Ennahar TV (360p)
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="Andorra",ANTENA TV (720p)
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.ad" tvg-name="ATV" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="Andorra",ATV (720p)
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.ad" tvg-name="ATV" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="Andorra",ATV (720p)
 https://videos.rtva.ad/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="Andorra",ATV Web Andorra
+#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="Andorra",ATV Web Andorra (720p)
 https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVA.ad" tvg-name="RTVA" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="Andorra",RTVA
 https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8
-#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="Andorra",ANTENA TV
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-url="" group-title="Argentina",24/7 Canal de Noticias (720p)
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-url="" group-title="Argentina",24/7 Canal de Noticias (720p)
@@ -7070,6 +7070,8 @@ https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="5TV.ar" tvg-name="5TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kujnLsO.png" tvg-url="" group-title="Argentina",5TV (Corrientes) (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCTVHD.ar" tvg-name="ABC TV HD" tvg-country="AR" tvg-language="" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" tvg-url="" group-title="Argentina",ABC TV HD
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
 #EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",América Tucumán
 http://45.6.4.50:50601/America_Tucuman/video.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",América TV
@@ -7106,8 +7108,14 @@ https://live.canalnueve.tv/canal.m3u8
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-id="CanalAcequia.ar" tvg-name="Canal Acequia" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OTyIxNK.jpg" tvg-url="" group-title="Argentina",Canal Acequia (720p)
 https://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+#EXTINF:-1 tvg-id="CanalMilenium.ar" tvg-name="Canal Milenium" tvg-country="AR" tvg-language="" tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-milenium-salta-90x67.jpg" tvg-url="" group-title="Argentina",Canal Milenium
+https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",Canal Provincial (San Miguel) (360p)
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CANALTDC.ar" tvg-name="CANAL TDC" tvg-country="AR" tvg-language="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TDC-TV-Santa-F%C3%A9-en-vivo-Online.png" tvg-url="" group-title="Argentina",CANAL TDC
+https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w1772083783.m3u8
+#EXTINF:-1 tvg-id="CANAL9MULTIVISION.ar" tvg-name="CANAL.9 MULTIVISION" tvg-country="AR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s" tvg-url="" group-title="Argentina",CANAL.9 MULTIVISION
+https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
 #EXTINF:-1 tvg-id="ChacoTV.ar" tvg-name="Chaco TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" tvg-url="" group-title="Argentina",Chaco TV (720p)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" tvg-url="" group-title="Argentina",Chacra TV (480p)
@@ -7128,7 +7136,7 @@ http://joaquinito01-ingest-server.duckdns.org:8080/hls/lanacion.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivisión Federal" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" tvg-url="" group-title="Argentina",Multivisión Federal (720p)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",MusicTop
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-url="" group-title="Argentina",MusicTop (720p)
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
@@ -7140,7 +7148,7 @@ http://media.neuquen.gov.ar/rtn/television/media.m3u8
 https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Argentina",Telefe Rosario (720p)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Argentina",Telemax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Argentina",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="Argentina",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
@@ -7148,19 +7156,11 @@ https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" tvg-name="Telpin TV Canal 2 HD" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B2lKSvo.png" tvg-url="" group-title="Argentina",Telpin TV Canal 2 HD (720p)
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="Argentina",Tierra Mía TV
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="Argentina",Tierra Mía TV (480p)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-name="TV Maná Argentina" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" tvg-url="" group-title="Argentina",TV Maná Argentina (576p)
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTVHD.ar" tvg-name="ABC TV HD" tvg-country="AR" tvg-language="" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" tvg-url="" group-title="Argentina",ABC TV HD
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
-#EXTINF:-1 tvg-id="CANALTDC.ar" tvg-name="CANAL TDC" tvg-country="AR" tvg-language="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TDC-TV-Santa-F%C3%A9-en-vivo-Online.png" tvg-url="" group-title="Argentina",CANAL TDC
-https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w1772083783.m3u8
-#EXTINF:-1 tvg-id="CanalMilenium.ar" tvg-name="Canal Milenium" tvg-country="AR" tvg-language="" tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-milenium-salta-90x67.jpg" tvg-url="" group-title="Argentina",Canal Milenium
-https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
-#EXTINF:-1 tvg-id="CANAL9MULTIVISION.ar" tvg-name="CANAL.9 MULTIVISION" tvg-country="AR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s" tvg-url="" group-title="Argentina",CANAL.9 MULTIVISION
-https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
-#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="Armenia",1 TV
+#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="Armenia",1 TV (1080p)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="Armenia",1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
@@ -7249,18 +7249,18 @@ https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
 http://ott-cdn.ucom.am/s7/index.m3u8
 #EXTINF:-1 tvg-id="ArubaTV.aw" tvg-name="Aruba.TV" tvg-country="AW" tvg-language="English" tvg-logo="https://i.imgur.com/9fWY09U.png" tvg-url="" group-title="Aruba",Aruba.TV (720p)
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
-#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" tvg-url="" group-title="Aruba",Telearuba 13 (720p)
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" tvg-url="" group-title="Aruba",Telearuba 13 (720p)
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="Aruba",Tele Aruba (720p)
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="Aruba",Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
 #EXTINF:-1 tvg-id="TeleArubaChannel13.aw" tvg-name="Tele Aruba Channel 13" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="Aruba",Tele Aruba Channel 13
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8
-#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="Aruba",Tele Aruba
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="TeleAruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="Aruba",TeleAruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
+#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" tvg-url="" group-title="Aruba",Telearuba 13 (720p)
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" tvg-url="" group-title="Aruba",Telearuba 13 (720p)
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-id="10.au" tvg-name="10" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Australia",10 [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
 #EXTINF:-1 tvg-id="10Bold.au" tvg-name="10 Bold" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Australia",10 Bold [Geo-blocked]

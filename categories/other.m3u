@@ -29,7 +29,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w152323
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 Music Channel
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
+#EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV (1080p)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="1TV.am" tvg-name="1 TV" tvg-country="AM" tvg-language="" tvg-logo="" tvg-url="" group-title="",1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
@@ -936,7 +936,7 @@ https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY" tvg-url="" group-title="",Antena Seis TV CANAL 32 HD
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
-#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
+#EXTINF:-1 tvg-id="ANTENATV.ad" tvg-name="ANTENA TV" tvg-country="AD" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV (720p)
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjoaELuSWxNfY9jk0tBfeqIOGFbH8EzQYcU4WR51aww6g6Y4Z" tvg-url="" group-title="",ANTENA TV
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
@@ -1259,7 +1259,7 @@ http://ott-cdn.ucom.am/s94/index.m3u8
 #EXTINF:-1 tvg-id="ATVTava.am" tvg-name="ATV Tava" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" tvg-url="" group-title="",ATV Tava (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
+#EXTINF:-1 tvg-id="ATVWebAndorra.ad" tvg-name="ATV Web Andorra" tvg-country="AD" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra (720p)
 https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",ATV Web Andorra
 https://videos.rtva.ad/live/web/playlist.m3u8
@@ -12064,7 +12064,7 @@ https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVHB.com" tvg-name="RTV HB" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/EE8C8rR.png" tvg-url="" group-title="",RTV HB (576p)
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="",RTV Ilirida
+#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" tvg-url="" group-title="",RTV Ilirida (360p)
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVMaastricht.nl" tvg-name="RTV Maastricht" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" tvg-url="" group-title="",RTV Maastricht (720p)
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
@@ -13220,7 +13220,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XymK2PR.png" tvg-url="" group-title="",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
+#EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TeleAruba.aw" tvg-name="Tele Aruba" tvg-country="AW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8
@@ -13402,7 +13402,7 @@ http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Telemax
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="",Telemax
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-url="" group-title="",Telemax (720p)
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
@@ -13902,7 +13902,7 @@ https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/pl
 http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tierra Mía
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="",Tierra Mía TV
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-name="Tierra Mía TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" tvg-url="" group-title="",Tierra Mía TV (480p)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
