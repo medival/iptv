@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1MusicChannelHungary.hu" tvg-name="1Music Channel Hungary" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="Music",1Music Channel Hungary
 http://1music.hu/1music.m3u8
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",ATV
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",ATV (360p)
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xyG4O6F.jpg" group-title="",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8

@@ -63,13 +63,13 @@ http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (576p)
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News (404p)
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-name="Asianet News Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla
+#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-name="Asianet News Bangla" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla (360p)
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada
+#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada (360p)
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="News",Asianet News Tamil (360p)
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Assam Talks (240p)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
@@ -167,7 +167,7 @@ http://cdncities.com/8012/8012/playlist.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",India News (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",India Today
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="",India Today (720p)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
@@ -369,9 +369,9 @@ http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNowHD.in" tvg-name="Times Now HD" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="News",Times Now HD (480p)
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-country="IN;AU" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travelxp
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-country="IN;AU" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travelxp (720p)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-name="Travelxp HD" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travelxp HD
+#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-name="Travelxp HD" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travelxp HD (720p)
 https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-name="Twenty Four News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (576p)
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
@@ -381,7 +381,7 @@ http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836
 http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
 #EXTINF:-1 tvg-id="Velicham.in" tvg-name="Velicham" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Entertainment",Velicham (360p)
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="XploreChannel.in" tvg-name="Xplore Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Xplore Channel
+#EXTINF:-1 tvg-id="XploreChannel.in" tvg-name="Xplore Channel" tvg-country="IN" tvg-language="" tvg-logo="" group-title="",Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop (360p)
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
@@ -395,7 +395,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="News",ಟಿವಿ೯ ಕನ್ನಡ TV9 (720p)
 https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="Dighvijay News 24x7" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/wdE7gxU.png" group-title="News",ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay
+#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="Dighvijay News 24x7" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/wdE7gxU.png" group-title="News",ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay (240p)
 https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News 18 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://static.kannada.news18.com/kannada/uploads/2020/03/Kannada1.png" group-title="News",ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
