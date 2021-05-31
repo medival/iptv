@@ -13,7 +13,7 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV110.br" tvg-name="Brasil IPTV_110" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_18
+#EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_18 (720p)
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV20.br" tvg-name="Brasil IPTV_20" tvg-country="BR" tvg-language="" tvg-logo="" group-title="",Brasil IPTV_20 (480p)
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
