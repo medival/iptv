@@ -1187,7 +1187,7 @@ http://ott-cdn.ucom.am/s71/index.m3u8
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 tvg-id="TelplyusTVAstrahan.ru" tvg-name="Телплюс ТВ (Астрахань)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Телплюс ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TivikomHDPlus5.ru" tvg-name="Тивиком HD (+5)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Тивиком HD (+5)
+#EXTINF:-1 tvg-id="TivikomHDPlus5.ru" tvg-name="Тивиком HD (+5)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Тивиком HD (+5) (1080p)
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-id="TKRRyazan.ru" tvg-name="ТКР (Рязань)" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",ТКР (Рязань) (720p)
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
