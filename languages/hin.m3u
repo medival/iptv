@@ -107,7 +107,7 @@ http://cdncities.com/8012/8012/playlist.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="India News" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="News",India News (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",India Today
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",India Today (720p)
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/IYXrLPs.png" tvg-url="" group-title="",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8

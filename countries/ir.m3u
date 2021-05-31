@@ -77,7 +77,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="GEMTv.ir" tvg-name="GEM Tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQEXJn2GhXCwrg/company-logo_200_200/0/1519922542997?e=2159024400&v=beta&t=aSDLR93A3W1bT5IjnzcojcMfTPNm1Uro97Tg5C28otM" tvg-url="" group-title="Movies",GEM Tv [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-url="" group-title="News",HispanTV
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-url="" group-title="News",HispanTV (480p)
 https://live.presstv.com/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="iFILMArabic.ir" tvg-name="iFILM Arabic" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" tvg-url="" group-title="Movies",iFILM Arabic (720p)
 https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
@@ -107,7 +107,7 @@ https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
 #EXTINF:-1 tvg-id="KarbalaLive4.ir" tvg-name="Karbala Live 4" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-url="" group-title="Religious",Karbala Live 4 (360p)
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
-#EXTINF:-1 tvg-id="Manoto.ir" tvg-name="Manoto" tvg-country="IR" tvg-language="Persian" tvg-logo="https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/manotologo.png" tvg-url="" group-title="Entertainment",Manoto TV
+#EXTINF:-1 tvg-id="Manoto.ir" tvg-name="Manoto" tvg-country="IR" tvg-language="Persian" tvg-logo="https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/manotologo.png" tvg-url="" group-title="Entertainment",Manoto TV (1080p)
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",MBC Persia (1080p)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
@@ -139,7 +139,7 @@ https://iptv.tapesh.tv/tapesh/playlist.m3u8
 https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" tvg-url="" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-url="" group-title="News",Press TV English
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-url="" group-title="News",Press TV English (720p)
 https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFarda.ir" tvg-name="Radio Farda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-url="" group-title="",Radio Farda (576p)
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8

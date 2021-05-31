@@ -13,7 +13,7 @@ http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="ArasanTV.in" tvg-name="Arasan TV" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Entertainment",Arasan TV (1080p)
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" tvg-url="" group-title="News",Asianet News Tamil
+#EXTINF:-1 tvg-id="AsianetNewsTamil.in" tvg-name="Asianet News Tamil" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" tvg-url="" group-title="News",Asianet News Tamil (360p)
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil" tvg-country="MY" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8

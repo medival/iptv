@@ -32,7 +32,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV (360p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-name="Alaraby TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-url="" group-title="News",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
@@ -54,7 +54,7 @@ https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",DW Arabic (400p)
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="Falastini.ps" tvg-name="Falastini" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Falastini
+#EXTINF:-1 tvg-id="Falastini.ps" tvg-name="Falastini" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Music",Falastini (576p)
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 Arabic (576p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8

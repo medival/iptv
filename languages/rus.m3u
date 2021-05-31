@@ -71,7 +71,7 @@ http://ott-cdn.ucom.am/s79/index.m3u8
 http://filmtv.zapto.org:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="FoxLifeRussia.us" tvg-name="Fox Life Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Life Russia (576p)
 http://51.68.140.190:8081/tv/fox-life/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxRussia.us" tvg-name="Fox Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Russia
+#EXTINF:-1 tvg-id="FoxRussia.us" tvg-name="Fox Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Russia (576p)
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshTV.ru" tvg-name="FreshTV" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Ju3mLgq.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",FreshTV (720p)
 https://strm.yandex.ru/kal/fresh/fresh0.m3u8
@@ -79,7 +79,7 @@ https://strm.yandex.ru/kal/fresh/fresh0.m3u8
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 tvg-id="GravityFouls.ru" tvg-name="Gravity Fouls" tvg-country="INT" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Gravity Fouls
 https://autopilot.catcast.tv/content/38105/index.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-name="Gulli Girl" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Gulli Girl
+#EXTINF:-1 tvg-id="GulliGirl.fr" tvg-name="Gulli Girl" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Gulli Girl (576p)
 http://188.40.68.167/russia/gulli_girl/playlist.m3u8
 #EXTINF:-1 tvg-id="HDMedia.ru" tvg-name="HD Медиа" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/hd-media.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",HD Медиа (720p)
 https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
@@ -95,7 +95,7 @@ https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 http://51.195.44.53:8081/tv/ictv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTelevisionNetwork.us" tvg-name="Impact Television Network" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Religious",Impact Television Network (480p)
 http://206.190.141.27:1935/live/impact/playlist.m3u8
-#EXTINF:-1 tvg-id="JimJamRossiya.uk" tvg-name="JimJam Россия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",JimJam Россия
+#EXTINF:-1 tvg-id="JimJamRossiya.uk" tvg-name="JimJam Россия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",JimJam Россия (576p)
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 #EXTINF:-1 tvg-id="KinderTV.ua" tvg-name="Kinder TV" tvg-country="INT" tvg-language="Ukrainian;Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Kinder TV
 http://autopilot.catcast.tv/content/38144/index.m3u8
@@ -176,7 +176,7 @@ http://37.17.14.149:8905/play/a00m
 https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
 #EXTINF:-1 tvg-id="SochiLiveHD.ru" tvg-name="Sochi Live HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Sochi Live HD (720p)
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TijiRussia.fr" tvg-name="Tiji Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Tiji Russia
+#EXTINF:-1 tvg-id="TijiRussia.fr" tvg-name="Tiji Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Tiji Russia (576p)
 http://188.40.68.167/russia/tiji/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelGuideTV.ua" tvg-name="Travel Guide TV" tvg-country="UA" tvg-language="Ukrainian;Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Travel",Travel Guide TV (720p)
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
@@ -218,7 +218,7 @@ https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
 https://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1 tvg-id="ViasatSportEast.se" tvg-name="Viasat Sport East" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" tvg-url="" group-title="Sport",Viasat Sport East
 https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-id="ViPComedyRussia.se" tvg-name="ViP Comedy Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Comedy",ViP Comedy Russia
+#EXTINF:-1 tvg-id="ViPComedyRussia.se" tvg-name="ViP Comedy Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Comedy",ViP Comedy Russia (1080p)
 http://188.40.68.167/russia/vip_comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="ViPComedyRussia.se" tvg-name="ViP Comedy Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Comedy",ViP Comedy Russia
 http://195.189.105.158:9050/132/index.m3u8
@@ -228,7 +228,7 @@ http://195.189.105.158:9050/133/index.m3u8
 http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VIVA Russia
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VIVA Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",VIVA Russia (1080p)
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="AvtoPlyus.ru" tvg-name="Авто Плюс" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Auto",Авто Плюс
 https://s4.idata.uz/avtoplyus/tracks-v1a1/mono.m3u8
@@ -359,7 +359,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-name="Кавказ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Кавказ 24 (720p)
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalDisney.us" tvg-name="Канал Disney" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Канал Disney
+#EXTINF:-1 tvg-id="KanalDisney.us" tvg-name="Канал Disney" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",Канал Disney (576p)
 http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1 tvg-id="KarapuzTV.ru" tvg-name="Карапуз ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Карапуз ТВ
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
@@ -383,7 +383,7 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KlassikaKino.ru" tvg-name="Классика Кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Классика Кино (720p)
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
-#EXTINF:-1 tvg-id="Komediya.ru" tvg-name="Комедия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Comedy",Комедия
+#EXTINF:-1 tvg-id="Komediya.ru" tvg-name="Комедия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Comedy",Комедия (576p)
 http://188.40.68.167/russia/komediya/playlist.m3u8
 #EXTINF:-1 tvg-id="Komediya.ru" tvg-name="Комедия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Comedy",Комедия
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
@@ -438,7 +438,7 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="MirPlus4.ru" tvg-name="Мир +4" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CrFWXTD.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Мир +4 (540p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Мир 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",Мир 24
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Мир 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",Мир 24 (576p)
 http://188.40.68.167/russia/mir24/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Мир 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
@@ -452,11 +452,11 @@ https://sc.id-tv.kz/Mir24_38_39.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Мир Белогорья" tvg-country="RU" tvg-language="Russian" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Мир Белогорья (720p)
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="Mirseriala.ru" tvg-name="Мир сериала" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Мир сериала
+#EXTINF:-1 tvg-id="Mirseriala.ru" tvg-name="Мир сериала" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Мир сериала (576p)
 http://188.40.68.167/russia/mir_seriala/playlist.m3u8
 #EXTINF:-1 tvg-id="Mordoviya24.ru" tvg-name="Мордовия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Local",Мордовия 24 (720p)
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Local",Москва 24
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Local",Москва 24 (720p)
 http://188.40.68.167/russia/moskva24/playlist.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Local",Москва 24
 https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8
@@ -603,7 +603,7 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru" tvg-name="Радио Шансон" tvg-country="RU" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Радость Моя" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Радость Моя
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Радость Моя" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Радость Моя (576p)
 http://188.40.68.167/russia/radost_moya/playlist.m3u8
 #EXTINF:-1 tvg-id="Ratnik.ru" tvg-name="Ратник" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Entertainment",Ратник (1080p)
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8

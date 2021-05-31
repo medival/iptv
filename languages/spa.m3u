@@ -21,9 +21,9 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",88 Stereo (486p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-url="" group-title="",ABC TV
+#EXTINF:-1 tvg-id="ABCTV.py" tvg-name="ABC TV" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-url="" group-title="",ABC TV (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Action Movies
+#EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Action Movies (720p)
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
@@ -67,7 +67,7 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-url="" group-title="",BHTV (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="BigName.es" tvg-name="Big Name" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hChduSn.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Big Name
+#EXTINF:-1 tvg-id="BigName.es" tvg-name="Big Name" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hChduSn.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Big Name (720p)
 https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-country="BO" tvg-language="Spanish" tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" tvg-url="" group-title="",Bolivia TV (720p)
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -143,9 +143,9 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-id="CanalCNCMedellin.co" tvg-name="Canal CNC Medellín" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/f3c5TIR.png" tvg-url="" group-title="",Canal CNC Medellín (720p)
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
-#EXTINF:-1 tvg-id="CANALCOSTATV.es" tvg-name="CANAL COSTA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",CANAL COSTA TV
+#EXTINF:-1 tvg-id="CANALCOSTATV.es" tvg-name="CANAL COSTA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",CANAL COSTA TV (720p)
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCoin.es" tvg-name="Canal Coín" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Coín
+#EXTINF:-1 tvg-id="CanalCoin.es" tvg-name="Canal Coín" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Coín (720p)
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
 #EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
@@ -207,7 +207,7 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNINTERNACIONAL.us" tvg-name="CNN INTERNACIONAL" tvg-country="US" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw" tvg-url="" group-title="",CNN INTERNACIONAL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
-#EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Comedy Movies
+#EXTINF:-1 tvg-id="ComedyMovies.es" tvg-name="Comedy Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o1qKoje.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Comedy Movies (720p)
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ComunionTV.do" tvg-name="Comunion TV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BNtmf7o.png" tvg-url="" group-title="",Comunion TV (720p)
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
@@ -215,17 +215,17 @@ http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 http://50.30.37.36:1935/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Condavision.es" tvg-name="Condavisión" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Btnzf1m.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Condavisión (720p)
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 tvg-id="CongresodelosDiputados1.es" tvg-name="Congreso de los Diputados 1" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 1
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es" tvg-name="Congreso de los Diputados 1" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 1 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
-#EXTINF:-1 tvg-id="CongresodelosDiputados2.es" tvg-name="Congreso de los Diputados 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 2
+#EXTINF:-1 tvg-id="CongresodelosDiputados2.es" tvg-name="Congreso de los Diputados 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 2 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8
-#EXTINF:-1 tvg-id="CongresodelosDiputados3.es" tvg-name="Congreso de los Diputados 3" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 3
+#EXTINF:-1 tvg-id="CongresodelosDiputados3.es" tvg-name="Congreso de los Diputados 3" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 3 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
-#EXTINF:-1 tvg-id="CongresodelosDiputados4.es" tvg-name="Congreso de los Diputados 4" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 4
+#EXTINF:-1 tvg-id="CongresodelosDiputados4.es" tvg-name="Congreso de los Diputados 4" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 4 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
-#EXTINF:-1 tvg-id="CongresodelosDiputados5.es" tvg-name="Congreso de los Diputados 5" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 5
+#EXTINF:-1 tvg-id="CongresodelosDiputados5.es" tvg-name="Congreso de los Diputados 5" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Legislative",Congreso de los Diputados 5 (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:-1 tvg-id="COSMOTV2.es" tvg-name="COSMO TV 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",COSMO TV 2
+#EXTINF:-1 tvg-id="COSMOTV2.es" tvg-name="COSMO TV 2" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",COSMO TV 2 (720p)
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="COSMOTVHD.es" tvg-name="COSMO TV HD" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",COSMO TV HD
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
@@ -255,7 +255,7 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="DWEntretenimiento.de" tvg-name="DW Entretenimiento" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Rm9knz8.png" tvg-url="" group-title="",DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-url="" group-title="",DW Español
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" tvg-url="" group-title="",DW Español (400p)
 http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",DW Español (400p)
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
@@ -317,7 +317,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:-1 tvg-id="EuroLatinaTV.es" tvg-name="EuroLatina TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.eurolatinatv.com/wp-content/uploads/cropped-logo-eurolatina-220x220.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",EuroLatina TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="News",Euronews en Español
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="News",Euronews en Español (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuropaPressTV.es" tvg-name="EuropaPress TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/europapress.es/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",EuropaPress TV
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
@@ -327,15 +327,15 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" tvg-url="" group-title="",Extrema TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
-#EXTINF:-1 tvg-id="FamilyMovies.es" tvg-name="Family Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Family Movies
+#EXTINF:-1 tvg-id="FamilyMovies.es" tvg-name="Family Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Family Movies (720p)
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FenixTV.ar" tvg-name="Fenix TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" tvg-url="" group-title="Local",Fenix TV (Ciudad de La Rioja) (720p)
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="FionTV.es" tvg-name="Fion TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOkkf0D.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fion TV
+#EXTINF:-1 tvg-id="FionTV.es" tvg-name="Fion TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOkkf0D.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fion TV (720p)
 http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español (1080p)
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -355,7 +355,7 @@ http://37.187.7.106/hechostv/live.m3u8
 https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperTV.cl" tvg-name="HiperTV" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-Jzepv48lTKg/Xm-zbST5B9I/AAAAAAAAw9c/j5ZlS99NHzghrTZ7O-RHN8wIXHEkMRutgCK8BGAsYHg/s0/2020-03-16.png" tvg-url="" group-title="",HiperTV (720p)
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-url="" group-title="News",HispanTV
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-url="" group-title="News",HispanTV (480p)
 https://live.presstv.com/live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HM.do" tvg-name="HM" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" tvg-url="" group-title="",HM (720p)
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
@@ -401,7 +401,7 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/playlist.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot Televisión" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Lancelot Televisión (360p)
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish;English" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" tvg-url="" group-title="",LATAM TV (Bogotà)
+#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-name="LATAM TV" tvg-country="CO" tvg-language="Spanish;English" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" tvg-url="" group-title="",LATAM TV (Bogotà) (540p)
 https://iptv-all.lanesh4d0w.repl.co/latam
 #EXTINF:-1 tvg-id="LatidoMusic.us" tvg-name="Latido Music" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oTECoKS.png" tvg-url="" group-title="Music",Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
@@ -443,15 +443,15 @@ https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 http://joaquinito01-ingest-server.duckdns.org:8080/hls/milenio.m3u8
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-name="Mision ELTV" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-OiAyNltHK1c/XoR4TuBHe4I/AAAAAAAAszg/d3NIH9pHptsJ75DDyIGuGjq9cVO-of7kgCLcBGAsYHQ/s200/misioneltvlogo.png" tvg-url="" group-title="",Mision ELTV (360p)
 https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
-#EXTINF:-1 tvg-id="MMATV.es" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",MMA TV
+#EXTINF:-1 tvg-id="MMATV.es" tvg-name="MMA TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYoNHMg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",MMA TV (720p)
 https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="molaTV.es" tvg-name="molaTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",molaTV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" tvg-url="" group-title="",Monte Maria (1080p)
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Sport",Monterrico TV
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Sport",Monterrico TV (1080p)
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="Moods.es" tvg-name="Moods" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Moods
+#EXTINF:-1 tvg-id="Moods.es" tvg-name="Moods" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Moods (720p)
 https://alchimie-moods-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="mtmad24h.es" tvg-name="mtmad 24h" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I9QX555.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
@@ -481,7 +481,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-name="MVM Noticias" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",MVM Noticias (Oaxaca)
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="MySurfTV.es" tvg-name="My Surf TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byD2nrE.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",My Surf TV
+#EXTINF:-1 tvg-id="MySurfTV.es" tvg-name="My Surf TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byD2nrE.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",My Surf TV (720p)
 https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J7stpmb.png" tvg-url="" group-title="",Net TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
@@ -505,7 +505,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:-1 tvg-id="ONDATVCANAL10.do" tvg-name="ONDA TV CANAL 10" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" tvg-url="" group-title="",ONDA TV CANAL 10 (720p)
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
-#EXTINF:-1 tvg-id="Ovacion.uy" tvg-name="Ovacion" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" tvg-url="" group-title="",Ovacion
+#EXTINF:-1 tvg-id="Ovacion.uy" tvg-name="Ovacion" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" tvg-url="" group-title="",Ovacion (720p)
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OyeTV.pa" tvg-name="Oye TV" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IqLT2CC.png" tvg-url="" group-title="Music",Oye TV (480p)
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
@@ -515,7 +515,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://video-ply.pauta.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-name="Pax TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-url="" group-title="",Pax TV (480p)
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleareAwesome.es" tvg-name="People are Awesome" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",People are Awesome
+#EXTINF:-1 tvg-id="PeopleareAwesome.es" tvg-name="People are Awesome" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/msHBlDz.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",People are Awesome (720p)
 https://jukin-peopleareawesome-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -523,7 +523,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PintanaTV.cl" tvg-name="Pintana TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png" tvg-url="" group-title="",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaKids.es" tvg-name="Planeta Kids" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Planeta Kids
+#EXTINF:-1 tvg-id="PlanetaKids.es" tvg-name="Planeta Kids" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CMRkI5N.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Planeta Kids (720p)
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AvidamodernadeRocko.us" tvg-name="A vida moderna de Rocko" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -689,7 +689,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="MTVAnimaciones.us" tvg-name="MTV Animaciones" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV MTV Animaciones
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV MTV Biggest Pop
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV MTV Biggest Pop (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV MTV Classic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -731,13 +731,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="NovelasThriller.us" tvg-name="Novelas Thriller" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Novelas Thriller
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="NuestraVision.us" tvg-name="Nuestra Vision" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Nuestra Vision
+#EXTINF:-1 tvg-id="NuestraVision.us" tvg-name="Nuestra Vision" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Nuestra Vision (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="5f2acdab16f5b3000721ae2c" tvg-name="Oh My Pet" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Oh My Pet
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="OsTresPatetas.us" tvg-name="Os Três Patetas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="PaisajesporStingray.us" tvg-name="Paisajes por Stingray" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Paisajes por Stingray
+#EXTINF:-1 tvg-id="PaisajesporStingray.us" tvg-name="Paisajes por Stingray" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Paisajes por Stingray (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us" tvg-name="Pluto TV Peleas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Peleas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -757,13 +757,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="SpikeAventura.us" tvg-name="Spike Aventura" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Spike Aventura
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Tastemade
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Tastemade (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVTeen.us" tvg-name="Pluto TV Teen" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="TelefeClasico.us" tvg-name="Telefe Clásico" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-name="Telefe Noticias" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Telefe Noticias
+#EXTINF:-1 tvg-id="TelefeNoticias.us" tvg-name="Telefe Noticias" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Telefe Noticias (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="TelemundoTelenovelas.us" tvg-name="Telemundo Telenovelas" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -781,9 +781,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us" tvg-name="Pluto TV Velocidad​" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Velocidad​
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Vevo Pop
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Vevo Pop (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="VEVOReggeatonTrap.us" tvg-name="VEVO Reggeaton & Trap" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-url="" group-title="",Pluto TV VEVO Reggeaton & Trap
+#EXTINF:-1 tvg-id="VEVOReggeatonTrap.us" tvg-name="VEVO Reggeaton & Trap" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" tvg-url="" group-title="",Pluto TV VEVO Reggeaton & Trap (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PlutoTVViajes.us" tvg-name="Pluto TV Viajes" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Viajes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -819,7 +819,7 @@ https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZetaTV.cl" tvg-name="Radio Zeta TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3788384_logo_radio_zeta.png" tvg-url="" group-title="",Radio Zeta TV (480p)
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="XHRCG-TDT.mx" tvg-name="RCG TV-1 (XHRCG-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",RCG TV-1 (XHRCG-TDT)
+#EXTINF:-1 tvg-id="XHRCG-TDT.mx" tvg-name="RCG TV-1 (XHRCG-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",RCG TV-1 (XHRCG-TDT) (360p)
 https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" tvg-url="" group-title="",RCG TV-2 (360p)
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
@@ -855,7 +855,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" tvg-url="" group-title="",RTQ Queretaro (360p)
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 tvg-id="RTVC.es" tvg-name="RTVC" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/1920px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",RTVC (Radio Televisión Canaria)
+#EXTINF:-1 tvg-id="RTVC.es" tvg-name="RTVC" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/1920px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",RTVC (Radio Televisión Canaria) (576p)
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="RuidosFM.cl" tvg-name="Ruidos FM" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IvSqpx0.jpg" tvg-url="" group-title="Music",Ruidos FM (360p)
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
@@ -881,7 +881,7 @@ https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.es" tvg-name="Sophia TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-id="Spotlight.es" tvg-name="Spotlight" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Spotlight
+#EXTINF:-1 tvg-id="Spotlight.es" tvg-name="Spotlight" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Spotlight (720p)
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="StgoTV.cl" tvg-name="Stgo.TV" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" tvg-url="" group-title="",Stgo.TV (720p)
 https://stv.janus.cl/playlist/stream.m3u8
@@ -889,7 +889,7 @@ https://stv.janus.cl/playlist/stream.m3u8
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV55Santiago.do" tvg-name="Super TV 55 (Santiago)" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" tvg-url="" group-title="",Super TV 55 (Santiago) (720p)
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
-#EXTINF:-1 tvg-id="SupertoonsTV.es" tvg-name="Supertoons TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35BpWJh.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Supertoons TV
+#EXTINF:-1 tvg-id="SupertoonsTV.es" tvg-name="Supertoons TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35BpWJh.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Supertoons TV (720p)
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-url="" group-title="",Suram TV (1080p)
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
@@ -1013,9 +1013,9 @@ https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 #EXTINF:-1 tvg-id="TuyaLaJandaTelevision.es" tvg-name="Tuya La Janda Televisión" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Tuya La Janda Televisión
 http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 tvg-id="TVCOOSMOS.es" tvg-name="TV COOSMOS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV COOSMOS
+#EXTINF:-1 tvg-id="TVCOOSMOS.es" tvg-name="TV COOSMOS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://www.cosmopolitantv.es/img/logorrss.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV COOSMOS (480p)
 https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVCosmosPeru/picture?width=320&height=320" tvg-url="" group-title="Local",TV Cosmos
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVCosmosPeru/picture?width=320&height=320" tvg-url="" group-title="Local",TV Cosmos (480p)
 https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-name="TV Maná Argentina" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" tvg-url="" group-title="Local",TV Maná Argentina (576p)
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
@@ -1029,7 +1029,7 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPlata.do" tvg-name="TV Plata" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-33hgi3XzfLk/XaTZchnPFzI/AAAAAAAAoXM/_4Dev7Cb_II0S6JPEDyqOShzfmInR42vACLcBGAsYHQ/s200/tvplata.png" tvg-url="" group-title="",TV Plata (1080p)
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
-#EXTINF:-1 tvg-id="TVShows.es" tvg-name="TV Shows" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV Shows
+#EXTINF:-1 tvg-id="TVShows.es" tvg-name="TV Shows" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oMXfdkV.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV Shows (720p)
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="TV3CAT" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/tv3/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV3CAT (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
@@ -1055,7 +1055,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
 #EXTINF:-1 tvg-id="UAOPlay.co" tvg-name="UAOPlay" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kady79t.jpg" tvg-url="" group-title="",UAOPlay
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1 tvg-id="UCI.pe" tvg-name="UCI" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" tvg-url="" group-title="",UCI
+#EXTINF:-1 tvg-id="UCI.pe" tvg-name="UCI" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" tvg-url="" group-title="",UCI (1080p)
 http://170.79.102.223/UCI/index.m3u8
 #EXTINF:-1 tvg-id="UCSG.ec" tvg-name="UCSG" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/otOhIe8.png" tvg-url="" group-title="",UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u

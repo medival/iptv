@@ -40,7 +40,7 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV (360p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRafidain.iq" tvg-name="Al Rafidain" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Rafidain (1024p)
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
@@ -52,7 +52,7 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Sharqiya News (450p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSumaria.iq" tvg-name="Al Sumaria" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sumaria
+#EXTINF:-1 tvg-id="AlSumaria.iq" tvg-name="Al Sumaria" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sumaria (1080p)
 http://iptv.repl.co/Arabic/Al_summaria/
 #EXTINF:-1 tvg-id="AlRafidainTV.iq" tvg-name="Al-Rafidain TV" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al-Rafidain TV
 http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8

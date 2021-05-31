@@ -39,7 +39,7 @@ http://203.162.235.41:16913
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-name="Disney Channel Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="" tvg-url="" group-title="",Disney Channel Japan
+#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-name="Disney Channel Japan" tvg-country="JP" tvg-language="Japan" tvg-logo="" tvg-url="" group-title="",Disney Channel Japan (360p)
 http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
 #EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Fuji TV
 https://fujitv.mov3.co/hls/fujitv.m3u8
@@ -69,9 +69,9 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",NHK General TV
 https://nhk.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHKWorld" tvg-country="JP" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-url="" group-title="",NHK World
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHKWorld" tvg-country="JP" tvg-language="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-url="" group-title="",NHK World (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-url="" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-url="" group-title="News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="" tvg-logo="" tvg-url="" group-title="",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
@@ -81,7 +81,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 #EXTINF:-1 tvg-id="NHKWORLDTV.jp" tvg-name="NHK WORLD TV" tvg-country="JP" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" tvg-url="" group-title="",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="NHKHuaYuShiJie.jp" tvg-name="NHK华语视界" tvg-country="JP" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" tvg-url="" group-title="",NHK华语视界
+#EXTINF:-1 tvg-id="NHKHuaYuShiJie.jp" tvg-name="NHK华语视界" tvg-country="JP" tvg-language="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" tvg-url="" group-title="",NHK华语视界 (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="Local",Nippon TV
 https://ntv.mov3.co/hls/ntv.m3u8
@@ -109,7 +109,7 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" tvg-url="" group-title="",TV Tokyo
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-name="Weather Channel (ウェザーニュース) (BS | WNI)" tvg-country="JP" tvg-language="" tvg-logo="" tvg-url="" group-title="",Weather Channel (ウェザーニュース) (BS | WNI)
+#EXTINF:-1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-name="Weather Channel (ウェザーニュース) (BS | WNI)" tvg-country="JP" tvg-language="" tvg-logo="" tvg-url="" group-title="",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-name="Weather News" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" tvg-url="" group-title="Weather",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8

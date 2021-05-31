@@ -45,7 +45,7 @@ http://203.162.235.41:16909
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",NHK General TV
 https://nhk.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-url="" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-url="" group-title="News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-url="" group-title="News",NHK World Japan (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8

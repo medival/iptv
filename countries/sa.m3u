@@ -15,11 +15,11 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi TV (1080p)
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AfricaTV2.sa" tvg-name="Africa TV2" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Africa TV2
+#EXTINF:-1 tvg-id="AfricaTV2.sa" tvg-name="Africa TV2" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Africa TV2 (720p)
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
-#EXTINF:-1 tvg-id="AfricaTV3.sa" tvg-name="Africa TV3" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/35706_logo_africa_tv_3_3_2.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Africa TV3
+#EXTINF:-1 tvg-id="AfricaTV3.sa" tvg-name="Africa TV3" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/35706_logo_africa_tv_3_3_2.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Africa TV3 (720p)
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
-#EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Ahlu Al Quran TV
+#EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Ahlu Al Quran TV (720p)
 https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -40,7 +40,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Khalij (1080p)
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://alqamartv-rfrfjjt.netdna-ssl.com/arb/wp-content/uploads/2017/05/Title5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Al Qamar TV (360p)
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -78,7 +78,7 @@ https://shls-rotana-alresalah-prod-dub.shahid.net/out/v1/936b89606b5e48db8ca28ca
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhiwarTV.uk" tvg-name="Alhiwar TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-url="" group-title="",Alhiwar TV (1080p)
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Business",Asharq [Portrait]
+#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Business",Asharq (1280p) [Portrait]
 https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
 #EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Business",Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8

@@ -41,7 +41,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_s
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español (1080p)
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="News",France 24 Español (576p)
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -65,7 +65,7 @@ https://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="POPTV.mx" tvg-name="POP TV" tvg-country="MX" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" tvg-url="" group-title="",POP TV
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
-#EXTINF:-1 tvg-id="XHRCG-TDT.mx" tvg-name="RCG TV-1 (XHRCG-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",RCG TV-1 (XHRCG-TDT)
+#EXTINF:-1 tvg-id="XHRCG-TDT.mx" tvg-name="RCG TV-1 (XHRCG-TDT)" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",RCG TV-1 (XHRCG-TDT) (360p)
 https://5caf24a595d94.streamlock.net:1937/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV2.mx" tvg-name="RCG TV-2" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" tvg-url="" group-title="",RCG TV-2 (360p)
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8

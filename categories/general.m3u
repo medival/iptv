@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="12TVParma.it" tvg-name="12 TV Parma" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.12tvparma.it/static/img/12tvparma.png" tvg-url="" group-title="General",12 TV Parma
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-name="12 TV Parma" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.12tvparma.it/static/img/12tvparma.png" tvg-url="" group-title="General",12 TV Parma (540p)
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="22TV.sa" tvg-name="22 TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m5cc4g5.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
@@ -61,7 +61,7 @@ https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharqiya from Kalba" tvg-name="Sharqiya from Kalba" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sharqiya Min Kalba (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSumaria.iq" tvg-name="Al Sumaria" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sumaria
+#EXTINF:-1 tvg-id="AlSumaria.iq" tvg-name="Al Sumaria" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Sumaria (1080p)
 http://iptv.repl.co/Arabic/Al_summaria/
 #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
@@ -101,7 +101,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playl
 http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-name="Bahrain TV" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" tvg-url="" group-title="General",Bahrain TV (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-url="" group-title="General",Boss Brothers TV
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-url="" group-title="General",Boss Brothers TV (720p)
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-id="byuTV.us" tvg-name="byu TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TDRDF4q.png" tvg-url="" group-title="General",byu TV
 https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
@@ -141,7 +141,7 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNOW.us" tvg-name="ElectricNOW" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bfXUwaa.png" tvg-url="" group-title="General",ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
-#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-name="Elsharq TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://elsharq.tv/img/elsharq.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Elsharq TV
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-name="Elsharq TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://elsharq.tv/img/elsharq.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Elsharq TV (1080p)
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTV.sa" tvg-name="EN TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15817550307058.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",EN TV
 http://82.212.74.100:8000/live/8130.m3u8
@@ -231,7 +231,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_ch
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.us" tvg-name="PBS America" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="General",PBS America
 http://51.52.156.22:8888/http/012
-#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-name="PBS America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" tvg-url="" group-title="General",PBS America
+#EXTINF:-1 tvg-id="PBSAmerica.us" tvg-name="PBS America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" tvg-url="" group-title="General",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.us" tvg-name="People TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lSAfKXY.jpg" tvg-url="" group-title="General",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
@@ -280,7 +280,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_(2020_Logo).svg/1920px-RTSH_1_HD_(2020_Logo).svg.png" tvg-url="" group-title="General",RTSH 1
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1 tvg-id="RTVC.es" tvg-name="RTVC" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/1920px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",RTVC (Radio Televisión Canaria)
+#EXTINF:-1 tvg-id="RTVC.es" tvg-name="RTVC" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg/1920px-Logo_del_Ente_P%C3%BAblico_Radio_Televisi%C3%B3n_Canaria.svg.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",RTVC (Radio Televisión Canaria) (576p)
 https://rtvc-live1-rm.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="SahelTV.tn" tvg-name="Sahel TV" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-url="" group-title="General",Sahel TV (720p)
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
@@ -412,7 +412,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="STV.by" tvg-name="СТВ" tvg-country="BY" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/stv-by.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="General",СТВ
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 tvg-id="YuanZuMin.tw" tvg-name="原住民電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-url="" group-title="General",原住民電視
+#EXTINF:-1 tvg-id="YuanZuMin.tw" tvg-name="原住民電視" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://titv.ipcf.org.tw/images/logo.png" tvg-url="" group-title="General",原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="大愛2" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://www.daai.tv/images/logo.png" tvg-url="" group-title="General",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -422,9 +422,9 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="XingKongWeiShi.hk" tvg-name="星空衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" tvg-url="" group-title="General",星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-url="" group-title="General",民視
+#EXTINF:-1 tvg-id="MinShi.tw" tvg-name="民視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" tvg-url="" group-title="General",民視 (720p)
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-url="" group-title="General",民視第一
+#EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" tvg-url="" group-title="General",民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="GangTaiDianShi31.hk" tvg-name="港台電視31" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-url="" group-title="General",港台電視31 (720p)
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
