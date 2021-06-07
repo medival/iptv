@@ -49,7 +49,7 @@ https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Action Movies (720p)
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-id="AlacantiTV.es" tvg-name="Alacantí TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8

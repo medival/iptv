@@ -183,7 +183,7 @@ https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #EXTINF:-1 tvg-id="ACNMusic.in" tvg-name="ACN Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Music",ACN Music (1080p)
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-id="ACVNews.in" tvg-name="ACV News" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" tvg-url="" group-title="News",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8

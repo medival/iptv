@@ -301,7 +301,7 @@ https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="ShaoDong.cn" tvg-name="Shao Dong" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",Shao Dong (576p)
 http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-name="TDM Info. Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="",TDM Info. Macau
+#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-name="TDM Info. Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="",TDM Info. Macau (720p)
 http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDMMacau.mo" tvg-name="TDM Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="",TDM Macau (720p)
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8

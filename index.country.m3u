@@ -7195,7 +7195,7 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV110.br" tvg-name="Brasil IPTV_110" tvg-country="BR" tvg-language="" tvg-logo="" tvg-url="" group-title="Brazil",Brasil IPTV_110
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" tvg-url="" group-title="Brazil",Brasil IPTV_18
+#EXTINF:-1 tvg-id="BrasilIPTV18.br" tvg-name="Brasil IPTV_18" tvg-country="BR" tvg-language="" tvg-logo="" tvg-url="" group-title="Brazil",Brasil IPTV_18 (720p)
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BrasilIPTV20.br" tvg-name="Brasil IPTV_20" tvg-country="BR" tvg-language="" tvg-logo="" tvg-url="" group-title="Brazil",Brasil IPTV_20 (480p)
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
@@ -10089,7 +10089,7 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="DANCE.cr" tvg-name="DANCE" tvg-country="CR" tvg-language="" tvg-logo="https://i.iinfo.cz/images/534/dance-radio-nove-logo-listopad-2017-1.png" tvg-url="" group-title="Costa Rica",DANCE
 http://k2.usastreams.com/yeah1075
-#EXTINF:-1 tvg-id="EXTRATV42.cr" tvg-name="EXTRA TV 42" tvg-country="CR" tvg-language="" tvg-logo="" tvg-url="" group-title="Costa Rica",EXTRA TV 42
+#EXTINF:-1 tvg-id="EXTRATV42.cr" tvg-name="EXTRA TV 42" tvg-country="CR" tvg-language="" tvg-logo="" tvg-url="" group-title="Costa Rica",EXTRA TV 42 (720p)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" tvg-url="" group-title="Costa Rica",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -11049,7 +11049,7 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="Germany",DW (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="" tvg-logo="" tvg-url="" group-title="Germany",DW
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE" tvg-language="" tvg-logo="" tvg-url="" group-title="Germany",DW (480p)
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="Germany",DW (400p)
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -13466,7 +13466,7 @@ http://cld04wz.tv2000.it/tv2000_main.m3u8
 http://mi1.wz.tv2000.it/mirror/High/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVQuiModena.it" tvg-name="TV Qui (Modena)" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/154AQjl.png" tvg-url="" group-title="Italy",TV Qui (Modena) (480p)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSei.it" tvg-name="TV Sei" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TV Sei
+#EXTINF:-1 tvg-id="TVSei.it" tvg-name="TV Sei" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TV Sei (406p)
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUNO.it" tvg-name="TV UNO" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TV UNO
 http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
@@ -13482,7 +13482,7 @@ http://217.61.26.46:8080/hls/triveneta.m3u8
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAVicenza.it" tvg-name="TVA Vicenza" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TVA Vicenza (720p)
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u
-#EXTINF:-1 tvg-id="TVRS.it" tvg-name="TVRS" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TVRS
+#EXTINF:-1 tvg-id="TVRS.it" tvg-name="TVRS" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="Italy",TVRS (576p)
 http://wms.shared.streamshow.it/tvrs/mp4:tvrs/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRS.it" tvg-name="TVRS" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-url="" group-title="Italy",TVRS (480p)
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
@@ -13544,7 +13544,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="" tvg-url="" group-title="Japan",Animax Japan (Indonesian Subs)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="" tvg-url="" group-title="Japan",Animax Japan (Vietnamese Subs)
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="" tvg-url="" group-title="Japan",Animax Japan (Vietnamese Subs) (720p)
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 #EXTINF:-1 tvg-id="AnimaxKorea.jp" tvg-name="Animax Korea" tvg-country="KR" tvg-language="" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/31_anymax.png" tvg-url="" group-title="Japan",Animax Korea
 http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=SD&apikey=OJW57DXHXF
@@ -13913,7 +13913,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="Canal Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/0eGv67Q.png" tvg-url="" group-title="Macao",Canal Macau
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-name="TDM Info. Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="Macao",TDM Info. Macau
+#EXTINF:-1 tvg-id="TDMInfoMacau.mo" tvg-name="TDM Info. Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="Macao",TDM Info. Macau (720p)
 http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TDMMacau.mo" tvg-name="TDM Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" tvg-url="" group-title="Macao",TDM Macau (720p)
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -16217,7 +16217,7 @@ http://ott-cdn.ucom.am/s71/index.m3u8
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 tvg-id="TelplyusTVAstrahan.ru" tvg-name="Телплюс ТВ (Астрахань)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Телплюс ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TivikomHDPlus5.ru" tvg-name="Тивиком HD (+5)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Тивиком HD (+5)
+#EXTINF:-1 tvg-id="TivikomHDPlus5.ru" tvg-name="Тивиком HD (+5)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Тивиком HD (+5) (1080p)
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 #EXTINF:-1 tvg-id="TKRRyazan.ru" tvg-name="ТКР (Рязань)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТКР (Рязань) (720p)
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -16920,7 +16920,7 @@ https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
 #EXTINF:-1 tvg-id="ActionMovies.es" tvg-name="Action Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Spain",Action Movies (720p)
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Spain",Activa TV
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Spain",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-id="AlacantiTV.es" tvg-name="Alacantí TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Spain",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
@@ -17668,7 +17668,7 @@ http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbah
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" tvg-url="" group-title="Switzerland",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png" tvg-url="" group-title="Switzerland",TeleBielingue
+#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png" tvg-url="" group-title="Switzerland",TeleBielingue (720p)
 https://edge5.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="Switzerland",TeleBielingue (720p)
 https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
@@ -18090,7 +18090,7 @@ http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
 https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="Kanal15.tr" tvg-name="Kanal 15" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/jF9bf3u.png" tvg-url="" group-title="Turkey",Kanal 15 (720p)
 https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal23.tr" tvg-name="Kanal 23" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Ol0A1Jf.png" tvg-url="" group-title="Turkey",Kanal 23
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-name="Kanal 23" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Ol0A1Jf.png" tvg-url="" group-title="Turkey",Kanal 23 (720p)
 http://win1.yayin.com.tr/kanal23/kanal23/playlist.m3u8
 #EXTINF:-1 tvg-id="KANAL23.tr" tvg-name="KANAL 23" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",KANAL 23
 https://waw2.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
@@ -18288,7 +18288,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-name="Power TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/291uOcR.png" tvg-url="" group-title="Turkey",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-id="POWERTV.tr" tvg-name="POWER TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",POWER TV
+#EXTINF:-1 tvg-id="POWERTV.tr" tvg-name="POWER TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",POWER TV (720p)
 https://waw2.artiyerelmedya.net/powertv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="POWERTVHD.tr" tvg-name="POWER TV HD" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",POWER TV HD
 https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
@@ -18482,7 +18482,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-url="" group-title="Turkey",TRT Çocuk (720p)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",TV 1
+#EXTINF:-1 tvg-id="TV1.tr" tvg-name="TV 1" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",TV 1 (720p)
 https://broadcasttr.com:446/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1Kayseri.tr" tvg-name="TV 1  Kayseri" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",TV 1  Kayseri
 http://stream.taksimbilisim.com:1935/tv1/bant1/chunklist.m3u8
@@ -18568,7 +18568,7 @@ https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
 #EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" tvg-url="" group-title="Turkey",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="YeniMalatyasporTV.tr" tvg-name="Yeni Malatyaspor TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",Yeni Malatyaspor TV
+#EXTINF:-1 tvg-id="YeniMalatyasporTV.tr" tvg-name="Yeni Malatyaspor TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",Yeni Malatyaspor TV (720p)
 https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 tvg-id="YesilyurtTV.tr" tvg-name="Yesilyurt TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="Turkey",Yesilyurt TV
 https://waw1.artiyerelmedya.net/yesilyurttv/bant1/chunks.m3u8?hash=2ed1974639ec674a33ed440298136dcd
@@ -20825,7 +20825,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorHD.us" tvg-name="Outdoor HD" tvg-country="US" tvg-language="" tvg-logo="" tvg-url="" group-title="United States",Outdoor HD
 http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
-#EXTINF:-1 tvg-id="OutdoorLifestyle.us" tvg-name="Outdoor Lifestyle" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Ot9wh52.png" tvg-url="" group-title="United States",Outdoor Lifestyle
+#EXTINF:-1 tvg-id="OutdoorLifestyle.us" tvg-name="Outdoor Lifestyle" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Ot9wh52.png" tvg-url="" group-title="United States",Outdoor Lifestyle (720p)
 https://bozztv.com/36bay2/gusa-outdoorlifstyle/index.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-country="US" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" tvg-url="" group-title="United States",Outside TV (1080p)
 https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
@@ -22183,13 +22183,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd05b469
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us" tvg-name="Pluto TV Velocidad​" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" tvg-url="" group-title="United States",Pluto TV Velocidad​
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="VEVO2K.us" tvg-name="VEVO 2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 2K
+#EXTINF:-1 tvg-id="VEVO2K.us" tvg-name="VEVO 2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 2K (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="VEVO70s.us" tvg-name="VEVO 70's" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="VEVO80s.us" tvg-name="VEVO 80's" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 80's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="VEVO90s.us" tvg-name="VEVO 90's" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 90's
+#EXTINF:-1 tvg-id="VEVO90s.us" tvg-name="VEVO 90's" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO 90's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="VEVOCountry.us" tvg-name="VEVO Country" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" tvg-url="" group-title="United States",Pluto TV VEVO Country (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

@@ -29,7 +29,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ACNMusic.in" tvg-name="ACN Music" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Music",ACN Music (1080p)
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/guHWZwP.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Music",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/pPAj9Ua.png" tvg-url="" group-title="Music",ADRIA Music
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
