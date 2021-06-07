@@ -127,7 +127,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 #EXTINF:-1 tvg-id="TELECINEACTION.br" tvg-name="TELE CINE ACTION" tvg-country="BR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU" group-title="",TELE CINE ACTION (390p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="Teleganes.br" tvg-name="Teleganés" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" group-title="",Teleganés
+#EXTINF:-1 tvg-id="Teleganes.br" tvg-name="Teleganés" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" group-title="",Teleganés (2p)
 https://cdn01.yowi.tv/P18V9163O7/master.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva (720p)
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
