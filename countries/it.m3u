@@ -426,7 +426,7 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/
 https://stream.internet.one/Rete55_Live/index.m3u8
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="",Rete 55
 https://stream.internet.one/Rete55_Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Rete7.it" tvg-name="Rete 7" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/qkxCo8N.png" tvg-url="" group-title="",Rete 7
+#EXTINF:-1 tvg-id="Rete7.it" tvg-name="Rete 7" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/qkxCo8N.png" tvg-url="" group-title="",Rete 7 (576p)
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/CzjqIz8.png" tvg-url="" group-title="",Rete Biella TV (768p)
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8

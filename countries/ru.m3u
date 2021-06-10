@@ -125,7 +125,7 @@ https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamRossiya.uk" tvg-name="JimJam Россия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Kids",JimJam Россия (576p)
 http://188.40.68.167/russia/jimjam/playlist.m3u8
-#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik TV" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Krik TV
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik TV" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Krik TV (720p)
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="KvartalTV.ru" tvg-name="Kvartal TV" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Kvartal TV
 http://cam.kashira.ru/hls/cam1.m3u8
@@ -559,7 +559,7 @@ https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Карусель
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Katun24Barnaul.ru" tvg-name="Катунь 24 (Барнаул)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Катунь 24 (Барнаул)
+#EXTINF:-1 tvg-id="Katun24Barnaul.ru" tvg-name="Катунь 24 (Барнаул)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Катунь 24 (Барнаул) (576p)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-id="KvarcTVPodolsk.ru" tvg-name="Кварц ТВ (Подольск)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Кварц ТВ (Подольск)
 https://streamer1.podolsknet.ru/Infochannel/video.m3u8
@@ -797,7 +797,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 http://ott-cdn.ucom.am/s98/index.m3u8
 #EXTINF:-1 tvg-id="Nashdom.ru" tvg-name="Наш дом" tvg-country="RU" tvg-language="Russian" tvg-logo="https://pp.userapi.com/c5200/g33405934/a_1fa4a8a6.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш дом
 http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1 tvg-id="NashKinoroman.ru" tvg-name="Наш Кинороман" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Кинороман
+#EXTINF:-1 tvg-id="NashKinoroman.ru" tvg-name="Наш Кинороман" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Кинороман (576p)
 http://s1.only4.tv/0107/video.m3u8
 #EXTINF:-1 tvg-id="NashFutbol.ru" tvg-name="Наш Футбол" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Футбол
 http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd

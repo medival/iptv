@@ -864,7 +864,7 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://rtmp.info/canal38/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal 9 Televida" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Local",Canal 9 Televida (720p)
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d
+#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d (2p)
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png" tvg-url="" group-title="Hobby",Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
@@ -1281,7 +1281,7 @@ https://ghaasiflu.online/tarab/index.m3u8
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaWashingtonDCSTIRR.us" tvg-name="District of Columbia: Washington D.C. (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="Local",District of Columbia: Washington D.C. (STIRR) (720p)
 https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
-#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV
+#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV (4p)
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="DivineVision.us" tvg-name="Divine Vision" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wjCFvLR.png" tvg-url="" group-title="Religious",Divine Vision (480p)
 https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
@@ -3518,7 +3518,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSUREnglish.ve" tvg-name="TeleSUR English" tvg-country="VE" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" tvg-url="" group-title="News",TeleSUR English (1080p)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda
+#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda (3p)
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us" tvg-name="Tempe 11" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2XKjSpy.gif" tvg-url="" group-title="Local",Tempe 11
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
@@ -3974,7 +3974,7 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 #EXTINF:-1 tvg-id="VH1Italia.us" tvg-name="VH1 Italia" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-url="" group-title="Music",VH1 Italia (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión
+#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión (720p)
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistoryRussia.se" tvg-name="Viasat History Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="History",Viasat History Russia
 https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8

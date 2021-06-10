@@ -169,7 +169,7 @@ https://sc.id-tv.kz/7_kanal_34_35.m3u8
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",7 канал Одесса HD
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
-#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",8 La Marina TV
+#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",8 La Marina TV (2p)
 https://cdn01.yowi.tv/ZH5FGIEUAV/master.m3u8
 #EXTINF:-1 tvg-id="8TVCadiz.es" tvg-name="8 TV Cádiz" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",8 TV Cádiz
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
@@ -2417,7 +2417,7 @@ http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Dunya TV
 http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
-#EXTINF:-1 tvg-id="DurangaldekoTV.es" tvg-name="Durangaldeko TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Durangaldeko TV
+#EXTINF:-1 tvg-id="DurangaldekoTV.es" tvg-name="Durangaldeko TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Durangaldeko TV (2p)
 https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" tvg-url="" group-title="",Dust
 https://dust-samsung.vizio.wurl.com/manifest/playlist.m3u8
@@ -2453,7 +2453,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="DWNEWS.de" tvg-name="DW NEWS" tvg-country="DE" tvg-language="" tvg-logo="" tvg-url="" group-title="",DW NEWS
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
-#EXTINF:-1 tvg-id="DejatedeHistoriasTV.es" tvg-name="Déjate de Historias TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Déjate de Historias TV
+#EXTINF:-1 tvg-id="DejatedeHistoriasTV.es" tvg-name="Déjate de Historias TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Déjate de Historias TV (2p)
 https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",E قناه الفتح
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
@@ -3662,7 +3662,7 @@ https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
 http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=SD&apikey=OJW57DXHXF
 #EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-name="HyundaiHomeShoppingPlusShop" tvg-country="KR" tvg-language="" tvg-logo="https://img.pooq.co.kr/BMS/ChannelImg/62_%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91plus%EC%83%B5.png" tvg-url="" group-title="",HyundaiHomeShoppingPlusShop
 http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=SD&apikey=OJW57DXHXF
-#EXTINF:-1 tvg-id="IBBTV.tr" tvg-name="IBB TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",IBB TV
+#EXTINF:-1 tvg-id="IBBTV.tr" tvg-name="IBB TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",IBB TV (1080p)
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-id="IBBTV.tr" tvg-name="IBB TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/aXxAz84.png" tvg-url="" group-title="",IBB TV
 https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w296059271.m3u8
@@ -4194,7 +4194,7 @@ http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
 http://cdn10.live-tv.od.ua:8081/kratu/kratu-abr/kratu/kratu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/NXqO1Qa.png" tvg-url="" group-title="",Kratu
 https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
-#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik TV" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Krik TV
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik TV" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Krik TV (720p)
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="KroneTV.at" tvg-name="Krone.TV" tvg-country="AT" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png" tvg-url="" group-title="",Krone.TV (360p)
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
@@ -7216,7 +7216,7 @@ https://endemol-restore-1.vizio.wurl.com/manifest/playlist.m3u8
 https://stream.internet.one/Rete55_Live/index.m3u8
 #EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="",Rete 55
 https://stream.internet.one/Rete55_Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Rete7.it" tvg-name="Rete 7" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/qkxCo8N.png" tvg-url="" group-title="",Rete 7
+#EXTINF:-1 tvg-id="Rete7.it" tvg-name="Rete 7" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/qkxCo8N.png" tvg-url="" group-title="",Rete 7 (576p)
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/CzjqIz8.png" tvg-url="" group-title="",Rete Biella TV (768p)
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
@@ -7622,7 +7622,7 @@ http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVGO.nl" tvg-name="RTV GO!" tvg-country="NL" tvg-language="" tvg-logo="" tvg-url="" group-title="",RTV GO! (1080p)
 http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVMogan.es" tvg-name="RTV Mogán" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",RTV Mogán
+#EXTINF:-1 tvg-id="RTVMogan.es" tvg-name="RTV Mogán" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",RTV Mogán (1080p)
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="RTVNOFWEB.nl" tvg-name="RTV NOF (WEB)" tvg-country="NL" tvg-language="" tvg-logo="" tvg-url="" group-title="",RTV NOF (WEB) (720p)
 http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
@@ -8480,7 +8480,7 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFUTUROCANAL23.do" tvg-name="TELEFUTURO CANAL 23" tvg-country="DO" tvg-language="" tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png" tvg-url="" group-title="",TELEFUTURO CANAL 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
-#EXTINF:-1 tvg-id="Teleganes.br" tvg-name="Teleganés" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" tvg-url="" group-title="",Teleganés
+#EXTINF:-1 tvg-id="Teleganes.br" tvg-name="Teleganés" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" tvg-url="" group-title="",Teleganés (2p)
 https://cdn01.yowi.tv/P18V9163O7/master.m3u8
 #EXTINF:-1 tvg-id="TeleGenova.it" tvg-name="TeleGenova" tvg-country="IT" tvg-language="" tvg-logo="" tvg-url="" group-title="",TeleGenova (404p)
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
@@ -8562,7 +8562,7 @@ https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 #EXTINF:-1 tvg-id="TELESURHD.cr" tvg-name="TELESUR HD" tvg-country="CR" tvg-language="" tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-02/TeleSUR-Costa%2520Rica.png?itok=_XGPSrGY" tvg-url="" group-title="",TELESUR HD
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
-#EXTINF:-1 tvg-id="TelesurMadrid.es" tvg-name="Telesur Madrid" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Telesur Madrid
+#EXTINF:-1 tvg-id="TelesurMadrid.es" tvg-name="Telesur Madrid" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Telesur Madrid (2p)
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
 #EXTINF:-1 tvg-id="TeleTerni.it" tvg-name="TeleTerni" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/U1BjkEl.png" tvg-url="" group-title="",TeleTerni
 https://diretta.teleterni.it/live/stream_src.m3u8
@@ -8638,7 +8638,7 @@ http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
 https://www.tdtchannels.com/stream/tevecat.m3u8
 #EXTINF:-1 tvg-id="TEVE2HD.tr" tvg-name="TEVE2 HD" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",TEVE2 HD
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="TevequatreTV.es" tvg-name="Tevequatre TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Tevequatre TV
+#EXTINF:-1 tvg-id="TevequatreTV.es" tvg-name="Tevequatre TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Tevequatre TV (2p)
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-country="FR" tvg-language="" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" tvg-url="" group-title="",TF1 (576p)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
@@ -8844,7 +8844,7 @@ http://wpso.com:1936/hls/music1.m3u8
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="955337" tvg-name="Timeline" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/J8qVUjM.png" tvg-url="" group-title="",Timeline
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TindayaTV.es" tvg-name="Tindaya TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Tindaya TV
+#EXTINF:-1 tvg-id="TindayaTV.es" tvg-name="Tindaya TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Tindaya TV (2p)
 https://cdn01.yowi.tv/FFFFFFFFFF/master.m3u8
 #EXTINF:-1 tvg-id="TirolTV.at" tvg-name="Tirol TV" tvg-country="AT" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png" tvg-url="" group-title="",Tirol TV
 https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
@@ -9024,9 +9024,9 @@ https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/chunklist_b2064000.
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Trwam TV
 http://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-#EXTINF:-1 tvg-id="TSIHD.hn" tvg-name="TSI HD" tvg-country="HN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU" tvg-url="" group-title="",TSI HD
+#EXTINF:-1 tvg-id="TSIHD.hn" tvg-name="TSI HD" tvg-country="HN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU" tvg-url="" group-title="",TSI HD (720p)
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="TSIHD.hn" tvg-name="TSI HD" tvg-country="HN" tvg-language="" tvg-logo="http://www.honduras504.com/img/tv/TSi.png" tvg-url="" group-title="",TSI HD
+#EXTINF:-1 tvg-id="TSIHD.hn" tvg-name="TSI HD" tvg-country="HN" tvg-language="" tvg-logo="http://www.honduras504.com/img/tv/TSi.png" tvg-url="" group-title="",TSI HD (540p)
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.wixstatic.com/media/27077f_bfe471027b974b23a7890f43b2dcee79~mv2.png/v1/fill/w_215,h_215,al_c,q_80,usm_0.66_1.00_0.01/27077f_bfe471027b974b23a7890f43b2dcee79~mv2.webp" tvg-url="" group-title="",TU MEJOR TELEVISION HD
 http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1849997651.m3u8
@@ -9166,9 +9166,9 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/4LG6sA0.png" tvg-url="" group-title="",TV Evangelizar (480p)
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVExtremena.es" tvg-name="TV Extremeña" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV Extremeña
+#EXTINF:-1 tvg-id="TVExtremena.es" tvg-name="TV Extremeña" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV Extremeña (2p)
 https://cdn01.yowi.tv/43J82FST7L/master.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" tvg-country="VE" tvg-language="" tvg-logo="https://i.imgur.com/ixIePRp.png" tvg-url="" group-title="",TV Familia
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" tvg-country="VE" tvg-language="" tvg-logo="https://i.imgur.com/ixIePRp.png" tvg-url="" group-title="",TV Familia (4p)
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-1 tvg-id="TVFAMILIAVENEZUELA.ve" tvg-name="TV FAMILIA VENEZUELA" tvg-country="VE" tvg-language="" tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/07/New-LOGO-TVF-1-300x300.png" tvg-url="" group-title="",TV FAMILIA VENEZUELA
 https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
@@ -9200,7 +9200,7 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJornaldoNordeste.br" tvg-name="TV Jornal do Nordeste" tvg-country="BR" tvg-language="" tvg-logo="http://www.m3u.cl/logo/109857_TV_Jornal_do_Nordeste.png" tvg-url="" group-title="",TV Jornal do Nordeste (720p)
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKayseri.tr" tvg-name="TV Kayseri" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",TV Kayseri
+#EXTINF:-1 tvg-id="TVKayseri.tr" tvg-name="TV Kayseri" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",TV Kayseri (720p)
 https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKOPER.si" tvg-name="TV KOPER" tvg-country="SI" tvg-language="" tvg-logo="" tvg-url="" group-title="",TV KOPER (720p)
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
@@ -10126,7 +10126,7 @@ http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="YABANTV.tr" tvg-name="YABAN TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",YABAN TV (720p)
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
-#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" tvg-url="" group-title="",Yaban TV
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-name="Yaban TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" tvg-url="" group-title="",Yaban TV (1080p)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Yahoo! Finance
 https://yahoo-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5f170f01b898490041b49dd1/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
@@ -10406,7 +10406,7 @@ https://5656.ga/ch6.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="Karusel.ru" tvg-name="Карусель" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Карусель
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Katun24Barnaul.ru" tvg-name="Катунь 24 (Барнаул)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Катунь 24 (Барнаул)
+#EXTINF:-1 tvg-id="Katun24Barnaul.ru" tvg-name="Катунь 24 (Барнаул)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Катунь 24 (Барнаул) (576p)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-id="KvarcTVPodolsk.ru" tvg-name="Кварц ТВ (Подольск)" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Кварц ТВ (Подольск)
 https://streamer1.podolsknet.ru/Infochannel/video.m3u8
@@ -10520,7 +10520,7 @@ http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Надия/Новый канал
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 tvg-id="NashKinoroman.ru" tvg-name="Наш Кинороман" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Кинороман
+#EXTINF:-1 tvg-id="NashKinoroman.ru" tvg-name="Наш Кинороман" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Кинороман (576p)
 http://s1.only4.tv/0107/video.m3u8
 #EXTINF:-1 tvg-id="NashFutbol.ru" tvg-name="Наш Футбол" tvg-country="RU" tvg-language="" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Наш Футбол
 http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd

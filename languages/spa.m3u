@@ -125,7 +125,7 @@ http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" tvg-url="" group-title="",Canal 4 RD (720p)
 https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
-#EXTINF:-1 tvg-id="Canal45TV.es" tvg-name="Canal 45 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal 45 TV
+#EXTINF:-1 tvg-id="Canal45TV.es" tvg-name="Canal 45 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal 45 TV (4p)
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-name="Canal 9 (Comodoro Rivadavia)" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" tvg-url="" group-title="",Canal 9 (Comodoro Rivadavia)
 https://live.canalnueve.tv/canal.m3u8
@@ -147,7 +147,7 @@ http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCoin.es" tvg-name="Canal Coín" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Coín (720p)
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
-#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d
+#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d (2p)
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-id="CanalDoce.co" tvg-name="Canal Doce" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W3rlI3P.png" tvg-url="" group-title="",Canal Doce (Sincelejo) (720p)
 https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
@@ -251,7 +251,7 @@ https://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="DiezTV.es" tvg-name="Diez TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV
+#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV (4p)
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="DWEntretenimiento.de" tvg-name="DW Entretenimiento" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Rm9knz8.png" tvg-url="" group-title="",DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
@@ -931,7 +931,7 @@ https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k
 http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefuturoCanal23.do" tvg-name="Telefuturo Canal 23" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" tvg-url="" group-title="",Telefuturo Canal 23 (720p)
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
-#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Telefórmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" tvg-url="" group-title="",Telefórmula
+#EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Telefórmula" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" tvg-url="" group-title="",Telefórmula (720p)
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4xNgb8H.png" tvg-url="" group-title="",Teleislas (480p)
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
@@ -975,7 +975,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleverCanal12.do" tvg-name="Telever Canal 12" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://i.imgur.com/s2FJJDS.png" tvg-url="" group-title="",Telever Canal 12
 http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda
+#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda (3p)
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1 tvg-id="TelevisiondeGuineaEcuatorial.gq" tvg-name="Televisión de Guinea Ecuatorial" tvg-country="GQ" tvg-language="Spanish" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" tvg-url="" group-title="",Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
@@ -1091,7 +1091,7 @@ https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
 https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-country="VE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",Vepaco TV (486p)
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
-#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión
+#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión (720p)
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" tvg-name="Visión 6 TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Visión 6 TV
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8

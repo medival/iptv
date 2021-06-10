@@ -91,7 +91,7 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal 9 Televida" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Local",Canal 9 Televida (720p)
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d
+#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal d (2p)
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-name="Canal Málaga RTV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Canal Málaga RTV (720p)
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
@@ -153,7 +153,7 @@ https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
 https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaWashingtonDCSTIRR.us" tvg-name="District of Columbia: Washington D.C. (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="Local",District of Columbia: Washington D.C. (STIRR) (720p)
 https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
-#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV
+#EXTINF:-1 tvg-id="DistritoTV.es" tvg-name="Distrito TV" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Distrito TV (4p)
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="EITB.es" tvg-name="EITB" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
@@ -421,7 +421,7 @@ http://203.162.235.41:16907
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="TelenordCorrientes.ar" tvg-name="Telenord Corrientes" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byxXHzq.png" tvg-url="" group-title="Local",Telenord Corrientes (720p)
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda
+#EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-name="Televisión Aranda" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Local",Televisión Aranda (3p)
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us" tvg-name="Tempe 11" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2XKjSpy.gif" tvg-url="" group-title="Local",Tempe 11
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
@@ -543,7 +543,7 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UtahSaltLakeCitySTIRR.us" tvg-name="Utah: Salt Lake City (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="Local",Utah: Salt Lake City (STIRR) (720p)
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
-#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión
+#EXTINF:-1 tvg-id="VIATelevisión.pe" tvg-name="VIA Televisión" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-url="" group-title="Local",VIA Televisión (720p)
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
 #EXTINF:-1 tvg-id="VirginiaLynchburgRoanokeSTIRR.us" tvg-name="Virginia: Lynchburg - Roanoke (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="Local",Virginia: Lynchburg - Roanoke (STIRR) (720p)
 https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8
