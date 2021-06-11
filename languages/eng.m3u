@@ -3011,7 +3011,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://i.mjh.nz/au/Sydney/tv.sky1rw.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Racing 2 (720p) [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-name="Sky Thoroughbred Central" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Thoroughbred Central [Geo-blocked]
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-name="Sky Thoroughbred Central" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="Smithsonian Channel Asia" tvg-country="US;AU" tvg-language="English" tvg-logo="https://i.imgur.com/weNdD7r.png" tvg-url="" group-title="",Smithsonian Channel Asia (1080p)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8

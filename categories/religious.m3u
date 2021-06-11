@@ -45,7 +45,7 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-url="" group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIstiqamaTV.om" tvg-name="Al Istiqama TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Religious",Al Istiqama TV (576p)
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8

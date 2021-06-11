@@ -69,7 +69,7 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-url="" group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AL Hurra HD" tvg-name="AL Hurra HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Hurra (486p)
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8

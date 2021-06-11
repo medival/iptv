@@ -239,7 +239,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 tvg-id="FamilyMovies.es" tvg-name="Family Movies" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hboiinD.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Family Movies (720p)
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV
+#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV (1080p)
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 tvg-id="Fibwi.es" tvg-name="Fibwi" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibwi (1080p)
 http://109.232.71.249/fibwiLIVE_movil/index.m3u8

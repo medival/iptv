@@ -2924,7 +2924,7 @@ https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2QzHA3k.png" tvg-url="" group-title="",Fibracat TV
 https://cdn-02.fibracat.cat/fibracattv/index.m3u8
-#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV
+#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV (1080p)
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 tvg-id="Fibwi.es" tvg-name="Fibwi" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibwi (1080p)
 http://109.232.71.249/fibwiLIVE_movil/index.m3u8

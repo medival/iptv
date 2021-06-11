@@ -923,7 +923,7 @@ http://82.212.74.3:8000/live/7513.m3u8
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Religious",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AL Hurra HD" tvg-name="AL Hurra HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Hurra (486p)
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -5759,7 +5759,7 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2QzHA3k.png" tvg-url="" group-title="",Fibracat TV
 https://cdn-02.fibracat.cat/fibracattv/index.m3u8
-#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV
+#EXTINF:-1 tvg-id="FibracatTV.es" tvg-name="Fibracat TV" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibracat TV (1080p)
 https://cdn02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 tvg-id="Fibwi.es" tvg-name="Fibwi" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Fibwi (1080p)
 http://109.232.71.249/fibwiLIVE_movil/index.m3u8
@@ -15652,7 +15652,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://i.mjh.nz/au/Sydney/tv.sky2rw.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" tvg-country="AU" tvg-language="" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-name="Sky Thoroughbred Central" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Thoroughbred Central [Geo-blocked]
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-name="Sky Thoroughbred Central" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.skyrtc.m3u8
 #EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-name="Sky Thoroughbred Central" tvg-country="AU" tvg-language="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
@@ -22509,7 +22509,7 @@ http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 tvg-id="AoMenTiYu.mo" tvg-name="澳门体育" tvg-country="MO" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmty.jpg" tvg-url="" group-title="",澳门体育 (720p)
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="AoMenWeiXing.mo" tvg-name="澳门卫星" tvg-country="MO" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" tvg-url="" group-title="",澳门卫星
+#EXTINF:-1 tvg-id="AoMenWeiXing.mo" tvg-name="澳门卫星" tvg-country="MO" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/aomen-macau.jpg" tvg-url="" group-title="",澳门卫星 (720p)
 http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="AoMenZongYi.mo" tvg-name="澳门综艺" tvg-country="MO" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmgq.jpg" tvg-url="" group-title="",澳门综艺 (720p)
 http://live2.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
