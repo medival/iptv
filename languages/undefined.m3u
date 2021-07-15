@@ -3396,7 +3396,7 @@ https://gustotv-samsung.vizio.wurl.com/manifest/playlist.m3u8
 https://gustous-plex.amagi.tv/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/playlist.m3u8?us_privacy=1---&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5f8746eabd529300418246d9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Gusto TV (India)
 https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="GUNEYDOGUTV.tr" tvg-name="GÜNEYDOĞU TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",GÜNEYDOĞU TV
+#EXTINF:-1 tvg-id="GUNEYDOGUTV.tr" tvg-name="GÜNEYDOĞU TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",GÜNEYDOĞU TV (480p)
 https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GunesTVKibris.tr" tvg-name="Güneş TV Kibris" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8

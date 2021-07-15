@@ -137,7 +137,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
 http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr" tvg-name="Guneydoğu TV" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/JT5pp3Y.png" tvg-url="" group-title="",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="GUNEYDOGUTV.tr" tvg-name="GÜNEYDOĞU TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",GÜNEYDOĞU TV
+#EXTINF:-1 tvg-id="GUNEYDOGUTV.tr" tvg-name="GÜNEYDOĞU TV" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",GÜNEYDOĞU TV (480p)
 https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GunesTVKibris.tr" tvg-name="Güneş TV Kibris" tvg-country="TR" tvg-language="" tvg-logo="" tvg-url="" group-title="",Güneş TV Kibris
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
